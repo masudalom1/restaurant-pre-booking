@@ -10,7 +10,7 @@ import Reviews from "../componets/Reviews";
 import MenuGrid from "../componets/Menu";
 import Navbar from "../componets/Navbar";
 import Hero from "../componets/Hero";
-import BookingWidget from "../componets/BookingWidget";
+import BookingWidget from "../componets/Bookingwidget";
 
 // ---------- Utilities ----------
 const cn = (...classes) => classes.filter(Boolean).join(" ");
